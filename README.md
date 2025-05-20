@@ -131,6 +131,7 @@ Sinta-se à vontade para abrir *issues* ou enviar *pull requests* com melhorias,
 
 Para dúvidas ou sugestões, entre em contato:
 - GitHub: [IrvinMoura](https://github.com/IrvinMoura)
+- LinkedIn: [IrvinMarques](https://www.linkedin.com/in/irvinmarques/)
 - Email: irvinmoura27@gmail.com
 
 ---
