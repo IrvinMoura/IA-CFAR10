@@ -44,9 +44,8 @@ O objetivo foi desenvolver uma rede neural convolucional (CNN) para classificar 
 ├── cifar10_model.keras                   # Modelo treinado
 ├── optimized_cifar10_colab_top5_v5.ipynb # Código principal de treinamento em .ipynb
 ├── optimized_cifar10_colab_top5_v5.py    # Código principal de treinamento em .py
-├── training_metrics.png                  # Gráficos de acurácia e perda
 ├── predict.py                            # Script para previsões
-└── README.md                             # Este arquivo
+└── training_metrics.png                  # Gráficos de acurácia e perda
 ```
 
 ## 🚀 Como Usar
